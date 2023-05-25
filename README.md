@@ -1,4 +1,3 @@
 Hey, I'm just a random person who enjoys codding and modding video games.
 Right now, my current projects revolve around making custom desktop software, modding the video game Subnautica, and it's sequal Subnautica Below Zero.
 Feel free to check out some of my stuff, I hope you like it!
-(And try not to have a heart attack when you realize how sloppy all of the code is...)
